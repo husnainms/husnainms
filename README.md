@@ -69,4 +69,4 @@ Market-structure scanners with alerts and AI review.<br>
 
 **Stack:** Laravel · Node.js · Python · Rust · React · Next.js · Vue · Flutter · Tauri · Electron · PostgreSQL · SQLite · Redis · Docker · Linux
 
-**Contact:** [husnainmasood001@gmail.com](mailto:husnainmasood001@gmail.com). Open to new projects.
+**Contact:** [info@kryyvo.com](mailto:info@kryyvo.com). Open to new projects.

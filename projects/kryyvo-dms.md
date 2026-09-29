@@ -42,4 +42,4 @@ A distributor's order bookers visit hundreds of shops a day, often with no signa
 
 ---
 
-[← Back to profile](../README.md) · Want a demo or a code walkthrough? Email [husnainmasood001@gmail.com](mailto:husnainmasood001@gmail.com).
+[← Back to profile](../README.md) · Want a demo or a code walkthrough? Email [info@kryyvo.com](mailto:info@kryyvo.com).

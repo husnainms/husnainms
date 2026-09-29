@@ -41,4 +41,4 @@ Off-the-shelf ERPs are either too rigid or too heavy for mid-sized distributors.
 
 ---
 
-[← Back to profile](../README.md) · Want a demo or a code walkthrough? Email [husnainmasood001@gmail.com](mailto:husnainmasood001@gmail.com).
+[← Back to profile](../README.md) · Want a demo or a code walkthrough? Email [info@kryyvo.com](mailto:info@kryyvo.com).
