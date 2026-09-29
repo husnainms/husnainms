@@ -1,6 +1,6 @@
 # Campus Cafeteria POS
 
-![Campus Cafeteria POS](../assets/cards/campus-pos.png)
+![Campus Cafeteria POS](../assets/cards/campus-pos.jpg)
 
 > **Offline-first point of sale and back office for a multi-campus cafeteria operator.**
 >

@@ -1,6 +1,6 @@
 # Kryyvo Insights
 
-![Kryyvo Insights](../assets/cards/kryyvo-insights.png)
+![Kryyvo Insights](../assets/cards/kryyvo-insights.jpg)
 
 > **An AI assistant that answers business questions from ERP data, without making up numbers.**
 >

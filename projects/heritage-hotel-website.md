@@ -1,6 +1,6 @@
-# Heritage Hotel Group Website
+# Hotel Group Website
 
-![Heritage Hotel Group Website](../assets/cards/hotel-site.png)
+![Hotel Group Website](../assets/cards/hotel-site.jpg)
 
 > **A cinematic brand site with live availability and online booking.**
 >

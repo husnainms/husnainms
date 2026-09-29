@@ -1,6 +1,6 @@
 # Distribution Analytics
 
-![Distribution Analytics](../assets/cards/distribution-analytics.png)
+![Distribution Analytics](../assets/cards/distribution-analytics.jpg)
 
 > **Automated management dashboards on top of an ERP with no public API.**
 >

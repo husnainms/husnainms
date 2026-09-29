@@ -1,6 +1,6 @@
 # Kryyvo ERP
 
-![Kryyvo ERP](../assets/cards/kryyvo-erp.png)
+![Kryyvo ERP](../assets/cards/kryyvo-erp.jpg)
 
 > **A modular, multi-tenant ERP for distribution companies.**
 >

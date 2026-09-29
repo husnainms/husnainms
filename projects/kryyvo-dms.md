@@ -1,6 +1,6 @@
 # Kryyvo DMS
 
-![Kryyvo DMS](../assets/cards/kryyvo-dms.png)
+![Kryyvo DMS](../assets/cards/kryyvo-dms.jpg)
 
 > **Distribution management for FMCG companies: field sales, orders, approvals, HR and payroll.**
 >

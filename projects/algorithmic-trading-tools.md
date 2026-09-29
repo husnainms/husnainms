@@ -1,6 +1,6 @@
 # Algorithmic Trading Tools
 
-![Algorithmic Trading Tools](../assets/cards/trading-tools.png)
+![Algorithmic Trading Tools](../assets/cards/trading-tools.jpg)
 
 > **Rule-based market-structure scanners for MetaTrader 5.**
 >

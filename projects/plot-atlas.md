@@ -1,6 +1,6 @@
 # Plot Atlas
 
-![Plot Atlas](../assets/cards/plot-atlas.png)
+![Plot Atlas](../assets/cards/plot-atlas.jpg)
 
 > **A computer-vision and GIS pipeline that turns a master-plan image into a searchable map of every plot.**
 >

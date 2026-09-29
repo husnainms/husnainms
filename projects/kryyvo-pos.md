@@ -1,6 +1,6 @@
 # Kryyvo POS
 
-![Kryyvo POS](../assets/cards/kryyvo-pos.png)
+![Kryyvo POS](../assets/cards/kryyvo-pos.jpg)
 
 > **A multi-business, multi-branch restaurant and cafeteria platform on one cloud API.**
 >

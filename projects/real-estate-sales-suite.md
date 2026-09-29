@@ -1,6 +1,6 @@
 # Real-Estate Sales Suite
 
-![Real-Estate Sales Suite](../assets/cards/realestate-suite.png)
+![Real-Estate Sales Suite](../assets/cards/realestate-suite.jpg)
 
 > **A listings portal, a lead CRM, and an automated lead pipeline for a real-estate agency.**
 >
